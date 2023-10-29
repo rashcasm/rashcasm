@@ -1,10 +1,10 @@
 
-```bash
-> neofetch
+```zsh
+>> neofetch
 ```
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://img.freepik.com/premium-photo/minimal-japanese-kawaii-sleepy-lazy-girl-chibi-anime-vector-art-sticker-with-clean-bold-line-cute_655090-7394.jpg" alt="Bakaguya (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
 rashcasm@github
@@ -20,5 +20,8 @@ Discord: rashcasm
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+  <img alt="#474342" src="https://via.placeholder.com/15/FCCBB5/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/885851/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/1D1010/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/563831/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/3A1512/000000?text=+" width="25" height="20" />
 </p>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
