@@ -1,25 +1,20 @@
-**Hi, I'm Rashmin.**<br>
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- :mortar_board: Freshman (Computer Science and Business Systems)
-- 🌱 Learning C, C++, Python and SQL.
-- 🤔 Looking for open source projects to learn and contribute
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-<!-- ![stat](https://github-stats-alpha.vercel.app/api?username=rashcasm) -->
 
 ```bash
 > neofetch
 ```
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```cpp
 rashcasm@github
 -------------------------
+Name: Rashmin
 Pronouns: He/Him
+Education: Freshman (Computer Science & Business Systems)
 Location: Maharashtra, Bharat(India)
-Languages: C++, Python, C, SQL
 Learning: C++, Python, C, SQL, React
+Looking for: Open-Source projects to learn and contribute
 Hobbies: Reading philosophies
 Discord: rashcasm
 ```
