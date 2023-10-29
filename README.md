@@ -14,7 +14,7 @@ Pronouns: He/Him
 Education: Freshman (Computer Science & Business Systems)
 Location: Maharashtra, Bharat(India)
 Learning: C++, Python, C, SQL, React
-Looking for: Open-Source projects to learn and contribute
+Looking_for: Open-Source projects to learn and contribute
 Hobbies: Reading philosophies
 Discord: rashcasm
 ```
