@@ -2,6 +2,9 @@
 ```zsh
 >> neofetch
 ```
+
+<img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="left" width="72"/><br><br><br><br>
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <img align="left" src="https://img.freepik.com/premium-photo/minimal-japanese-kawaii-sleepy-lazy-girl-chibi-anime-vector-art-sticker-with-clean-bold-line-cute_655090-7394.jpg" alt="Bakaguya (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
