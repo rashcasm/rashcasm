@@ -26,5 +26,3 @@ Discord: rashcasm
   <img alt="#474342" src="https://via.placeholder.com/15/FCCBB5/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/885851/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/1D1010/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/563831/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/3A1512/000000?text=+" width="25" height="20" />
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
