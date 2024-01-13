@@ -13,7 +13,7 @@ Name: Rashmin
 Pronouns: He/Him
 Education: Freshman (Computer Science & Business Systems)
 Location: Maharashtra, Bharat(India)
-Learning: C++ (DSA), C, Python, MERN Stack
+Learning: C++ (DSA), C, Python, JavaScript MERN Stack
 Looking_for: Open-Source projects to learn and contribute
 Hobbies: Reading philosophies
 Discord: rashcasm
