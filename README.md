@@ -1,4 +1,3 @@
-
 ```zsh
 >> neofetch
 ```
@@ -8,18 +7,19 @@
 
 ```csharp
 rashcasm@github
--------------------------
+-------------------------------------------------------------------
 Name: Rashmin
 Education: Freshman (Computer Science and Business Systems)
 Location: Maharashtra, Bharat(India)
-Learning: C++ (DSA), MERN Stack, Javascript, C, Python
+Learning: C++, Competitive Programming, MERN Stack, Python
 Looking_for: Open-Source projects to learn and contribute
 Hobbies: Reading philosophies
 Discord: rashcasm
 ```
+
 <p align="left">
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img alt="#474342" src="https://via.placeholder.com/15/3d1c1e/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/825e60/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/946f71/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/623d3c/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/705254/000000?text=+" width="25" height="20" />
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rashmin9c?theme=dark&font=Roboto&border=1&radius=20)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rashmin9c?theme=nord&font=Roboto&border=0) ![cf](https://codeforces-readme-stats.vercel.app/api/card?username=rashminchaudhari&theme=nord&disable_animations=false&show_icons=true&force_username=false&border_color=#00FFFFFF)
