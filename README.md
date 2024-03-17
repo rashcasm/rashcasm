@@ -24,5 +24,6 @@ Discord: rashcasm
 <br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rashmin9c?theme=nord&font=Roboto&border=0)
-
+<!--
 ![cf](https://codeforces-readme-stats.vercel.app/api/card?username=rashminchaudhari&theme=nord&disable_animations=false&show_icons=true&force_username=false&border_color=#00FFFFFF)
+-->
