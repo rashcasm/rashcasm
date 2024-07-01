@@ -12,6 +12,7 @@ Name: Rashmin
 Education: Freshman (Computer Science and Business Systems)
 Location: Maharashtra, Bharat(India)
 Learning: C++, Competitive Programming, MERN Stack, Python
+Competitive Programming: Codechef 2*
 Hobbies: Reading philosophies, prolly sleeping too xD
 Discord: rashcasm
 ```
