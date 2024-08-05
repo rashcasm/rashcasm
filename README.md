@@ -9,7 +9,7 @@
 rashcasm@github
 -------------------------------------------------------------------
 Name: Rashmin
-Education: Freshman (Computer Science and Business Systems)
+Education: 2nd Year (Computer Science and Business Systems)
 Location: Maharashtra, Bharat(India)
 Learning: C++, Competitive Programming, MERN Stack, Python
 Competitive Programming: Codechef 2*
