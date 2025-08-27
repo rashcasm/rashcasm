@@ -14,7 +14,7 @@ Location: Maharashtra, Bharat(India)
 Learning: C++, ML, Solana, MERN Stack
 Competitive Programming: Codechef 2*
 Hobbies: Reading philosophies, prolly sleeping too xD
-Discord: rashcasm
+Discord: not_rashcasm
 ```
 <br>
 <!-- <p align="left">
