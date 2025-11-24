@@ -29,4 +29,4 @@ Discord: not_rashcasm
 -->
 
 ### Projects
-[Ekonos](https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/ekonos)
+[Ekonos](https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/ekonos) As a part of [Turbin3.org](https://turbin3.org) builder's capstone
