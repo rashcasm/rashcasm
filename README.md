@@ -29,4 +29,4 @@ Discord: not_rashcasm
 -->
 
 ### Projects
-in progress...
+[Ekonos] (https://github.com/rashcasm/Q4_25_Builder_Rashmin/tree/main/ekonos)
