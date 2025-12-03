@@ -16,10 +16,4 @@ Competitive Programming: Codechef 2*
 Hobbies: Reading philosophies, prolly sleeping too xD
 Discord: not_rashcasm
 ```
-<br>
-<p align="left">
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img alt="#474342" src="https://via.placeholder.com/15/3d1c1e/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/825e60/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/946f71/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/623d3c/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/705254/000000?text=+" width="25" height="20" />
-</p> 
-<br>
 
