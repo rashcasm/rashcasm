@@ -11,7 +11,7 @@ rashcasm@github
 Name: Rashmin
 Education: 3rd Year (Computer Science and Business Systems)
 Location: Maharashtra, Bharat(India)
-Learning: Rust, C++, Solana, MERN
+Learning: Rust, C++, Solana, MERN, Python (sometimes)
 Competitive Programming: Codechef 2*
 Hobbies: Reading philosophies, prolly sleeping too xD
 Discord: not_rashcasm
