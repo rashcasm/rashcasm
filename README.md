@@ -5,7 +5,7 @@
 <img style="border-radius: 50%" align="left" src="https://img.freepik.com/premium-photo/minimal-japanese-kawaii-sleepy-lazy-girl-chibi-anime-vector-art-sticker-with-clean-bold-line-cute_655090-7394.jpg" alt="https://www.pixiv.net/en/artworks/80962527" width="255" /> 
 <img align="left" src="https://i.pinimg.com/564x/97/cb/a6/97cba6edbe6f76c76b56397cab0bc187.jpg" alt="https://www.pixiv.net/en/artworks/80962527" width="220" /> -->
 
-<img align="left" src="https://i.pinimg.com/736x/4c/c8/52/4cc8525e011061f29b1d07a9e53ef1b3.jpg" alt="https://www.pixiv.net/en/artworks/80962527" width="230" />
+<img align="left" src="https://i.pinimg.com/736x/4c/c8/52/4cc8525e011061f29b1d07a9e53ef1b3.jpg" alt="https://www.pixiv.net/en/artworks/80962527" width="220" />
 
 
 
