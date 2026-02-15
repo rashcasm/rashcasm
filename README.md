@@ -8,7 +8,7 @@
 rashcasm@github
 -----------------------------
 Name       : rashmin
-Status     : sde intern (algorithms) @ fintech
+Status     : sde intern (backend & algorithms) @ fintech
 Education  : 3rd Year
 Location   : maharashtra, bharat(india)
 Tech Stuff : rust, c++, solana, anchor, mern, python
