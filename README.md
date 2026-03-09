@@ -13,6 +13,7 @@ Status     : sde-intern @ fintech,
 Education  : third year
 Location   : maharashtra, bharat(india)
 Tech Stuff : rust, c++, solana, anchor, mern, python
+Interest   : fintech
 CP         : codechef two*
 Hobbies    : reading philosophies
 -----------------------------
