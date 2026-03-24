@@ -1,8 +1,4 @@
-```bash
->> neofetch
-```
-
-<img align="left" src="https://i.pinimg.com/736x/4c/c8/52/4cc8525e011061f29b1d07a9e53ef1b3.jpg" alt="https://www.pixiv.net/en/artworks/80962527" width="280" />
+<img src="rayq_wall.jpg" alt="https://www.pixiv.net/en/artworks/80962527" />
 
 ```rust
 rashcasm@github
