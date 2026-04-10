@@ -16,5 +16,5 @@ Hobbies    : reading philosophies
 -----------------------------
 Discord : @not_rashcasm | Telegram : @rashminc | X : @rashcasm
 ```
-Btw, all my private commits are "private" cause of internship~ 
+### Btw, all my private commits are "private" cause of internship.
 
