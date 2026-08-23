@@ -11,7 +11,6 @@ Education  : fourth year
 Location   : maharashtra, bharat(india)
 Tech Stuff : rust, c++, solana, anchor, mern, python
 Interest   : fintech
-CP         : codechef two*
 Hobbies    : reading philosophies
 -----------------------------
 Discord : @not_rashcasm | Telegram : @rashminc | X : @rashcasm
