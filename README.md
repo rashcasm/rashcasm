@@ -4,8 +4,8 @@
 rashcasm@github
 -----------------------------
 Name       : Rashmin
-Status     : quant-intern @ hedgeFund,
-             algo-backend intern @ fintech,
+Status     : quant @ prop,
+             ex-algo @ prop,
              co-founder @ daemons build
 Education  : third year
 Location   : maharashtra, bharat(india)
