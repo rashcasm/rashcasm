@@ -7,7 +7,7 @@ Name       : Rashmin
 Status     : quant @ prop,
              ex-algo @ prop,
              co-founder @ daemons build
-Education  : third year
+Education  : fourth year
 Location   : maharashtra, bharat(india)
 Tech Stuff : rust, c++, solana, anchor, mern, python
 Interest   : fintech
