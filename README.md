@@ -1,16 +1,14 @@
-<img src="rayq_wall.jpg" alt="https://www.pixiv.net/en/artworks/80962527" />
+<!-- <img src="rayq_wall.jpg" alt="https://www.pixiv.net/en/artworks/80962527" /> -->
 
 ```rust
 rashcasm@github
 -----------------------------
 Name       : Rashmin
-Status     : quant @ prop,
-             ex-algo @ prop,
-             co-founder @ daemons build
-Education  : fourth year
+Status     : Product @ eigi ai
+             ex-quant @ win, ex-algo @ aimfi
+Education  : btech 4th year
 Location   : maharashtra, bharat(india)
 Tech Stuff : rust, c++, solana, anchor, mern, python
-Interest   : fintech
 Hobbies    : reading philosophies
 -----------------------------
 Discord : @not_rashcasm | Telegram : @rashminc | X : @rashcasm
