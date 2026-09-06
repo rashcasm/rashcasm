@@ -4,7 +4,7 @@
 rashcasm@github
 -----------------------------
 Name       : Rashmin
-Status     : Product @ eigi ai
+Status     : product @ eigi ai
              ex-quant @ win, ex-algo @ aimfi
 Education  : btech 4th year
 Location   : maharashtra, bharat(india)
