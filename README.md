@@ -4,9 +4,8 @@
 rashcasm@github
 -----------------------------
 Name       : Rashmin
-Status     : product @ eigi ai
+Status     : CoS @ eigi ai
              ex-quant @ win, ex-algo @ aimfi
-Education  : btech 4th year
 Location   : maharashtra, bharat(india)
 Tech Stuff : rust, c++, solana, anchor, mern, python
 Hobbies    : reading philosophies
