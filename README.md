@@ -6,7 +6,7 @@ rashcasm@github
 Name       : Rashmin
 Status     : CoS @ eigi ai
              ex-quant @ win, ex-algo @ aimfi
-Location   : maharashtra, bharat(india)
+Location   : maharashtra, india
 Tech Stuff : rust, c++, solana, anchor, mern, python
 Hobbies    : reading philosophies
 -----------------------------
