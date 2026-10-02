@@ -3,8 +3,8 @@
 ```rust
 rashcasm@github
 -----------------------------
-Name       : Rashmin
-Status     : CoS @ eigi ai
+Name       : rashmin
+Status     : chief of staff @ eigi ai
              ex-quant @ win, ex-algo @ aimfi
 Location   : maharashtra, india
 Tech Stuff : rust, c++, solana, anchor, mern, python
